@@ -49,9 +49,8 @@
             lbldireccion.AutoSize = true;
             lbldireccion.Location = new Point(156, 30);
             lbldireccion.Name = "lbldireccion";
-            lbldireccion.Size = new Size(68, 20);
+            lbldireccion.Size = new Size(0, 20);
             lbldireccion.TabIndex = 1;
-            lbldireccion.Text = "labelruta";
             // 
             // dataGridView1
             // 
